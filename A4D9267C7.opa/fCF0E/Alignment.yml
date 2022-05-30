@@ -1,0 +1,34 @@
+segment_sources:
+  I1188F939:
+    type: origin_type
+    relation: translation
+    language: en
+  I19C4BBC1:
+    type: origin_type
+    relation: translation
+    language: pt
+  IB815ABE3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  553471c4012f4a108c0e8413d59186fa:
+    I1188F939: 39d8d08a24a8466b88768122ba717787
+    I19C4BBC1: b046e4627600418881db5a132bcd0856
+    IB815ABE3: 811280522b944367862f041369137bd4
+  0f9f5c5fccf84531b9d61eb80a93fdfe:
+    I1188F939: a8edb8ad4f2d4717a4af78597c1e06a1
+    I19C4BBC1: 115452ded5f04c5fb9e7a9617d7a0b54
+    IB815ABE3: 96159e75135b4e5d83c3fbcc7ea69536
+  fff755c6277b4333b2c98c64720dee74:
+    I1188F939: 3c3515cb5a614cf8974a47dc584b120c
+    I19C4BBC1: 3f91a50650e043548840c4ea07eaed7c
+    IB815ABE3: 6923c21024994c38ae94e238fbe6ebee
+  9c6cd1ab416942e4abd418f979610049:
+    I1188F939: 0eb7752e6bfd441694451ca2c6cce03c
+    I19C4BBC1: 02e376d819484d21bad5f51d6de032f5
+    IB815ABE3: 63151449e62d4c58bc6a853de8123115
+  01adece05fc441ec995963f13f1c59da:
+    I1188F939: e3839a5e885342ff9f6416df074c63fb
+    I19C4BBC1: a82163a8d05142418d8b033bbc6958de
+    IB815ABE3: db3420e77b2e45c980454a78d7efa8e9
